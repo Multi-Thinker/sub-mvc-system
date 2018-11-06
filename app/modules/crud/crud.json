@@ -1,0 +1,5 @@
+{
+	"controller":"students",
+	"default":"index",
+	"installation":"addDB"
+}
